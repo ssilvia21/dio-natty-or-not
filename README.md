@@ -1,51 +1,67 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎹 IA Generativa + Romances
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Essa música, além da capacidade humana de amar, também demonstra a capacidade da Inteligência Artificial Generativa de criar conteúdos que cada vez mais se assemelham aos conteúdos criados por humanos?
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Microsoft Copilot | Bing Chat](https://copilot.microsoft.com)** para criar a letra;
+- IA Generativa **[iLoveSong](https://ilovesong.ai/)** para sintetização de voz e melodia;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Como esse é o README.md mais romântico já existente na face da terra, posso contar que em setembro de 2024 estou completando 2 anos de casamento e isso me inspirou a usar a I.A. para criar uma música sobre a minha história de amor com meu esposo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### Letra gerada pelo Copilot
 
-### Exemplos e Insigths
+> [verse]
+We met when we were just six years old,
+In a playground where stories unfold.
+Hand in hand, we laughed and played,
+Innocent hearts, where memories stayed.
+>
+> [chorus]
+Love is a journey, a beautiful song,
+It takes you back to where you belong.
+Through all the years, through right and wrong,
+Love brings you back to where you belong.
+>
+>[verse]
+Years went by, we grew apart,
+But you always stayed in my heart.
+Fate brought us back, like a sweet refrain,
+Two hearts in love, together again.
+>
+>[chorus]
+Love is a journey, a beautiful song,
+It takes you back to where you belong.
+Through all the years, through right and wrong,
+Love brings you back to where you belong.
+>
+>[bridge]
+Now we’re standing here, hand in hand,
+In this moment, we understand.
+Love is timeless, love is strong,
+It always brings you back to where you belong.
+>
+>[chorus]
+Love is a journey, a beautiful song,
+It takes you back to where you belong.
+Through all the years, through right and wrong,
+Love brings you back to where you belong.
+>
+>[outro]
+So here’s to us, to love so true,
+From childhood dreams to “I do.”
+In each other’s arms, we found our song,
+Love brought us back to where we belong.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Para ouvir a música, você pode acessar **[Back to Where We Belong](https://ilovesong.ai/musics/1648868)**, hospedada no site da própria iLoveSong.
 
-## Links Interessantes
+## 💭 Reflexão 
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+> Mais do que máquinas precisamos de humanidade.
+>Mais do que inteligência precisamos de afeição e doçura.
+>Sem essas virtudes a vida será de violência e tudo estará perdido.
+>
+>— Charles Chaplin
