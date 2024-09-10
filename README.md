@@ -1,7 +1,7 @@
 # 🎹 IA Generativa + Romances
 
 ## 📒 Descrição
-Essa música, além da capacidade humana de amar, também demonstra a capacidade da Inteligência Artificial Generativa de criar conteúdos que cada vez mais se assemelham aos conteúdos criados por humanos?
+Essa música, além da capacidade humana de amar, também demonstra a capacidade da Inteligência Artificial Generativa de criar conteúdos que cada vez mais se assemelham aos conteúdos criados por humanos!
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Microsoft Copilot | Bing Chat](https://copilot.microsoft.com)** para criar a letra;
