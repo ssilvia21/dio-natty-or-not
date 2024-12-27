@@ -1,67 +1,32 @@
-# 🎹 IA Generativa + Romances
+# 🎹 IA Generativa para crianças
 
 ## 📒 Descrição
-Essa música, além da capacidade humana de amar, também demonstra a capacidade da Inteligência Artificial Generativa de criar conteúdos que cada vez mais se assemelham aos conteúdos criados por humanos!
+Criei uma canção de ninar para uma criança, demosntrando a capacidade da IA também em criação de canções, com ritmo, letra e melodia.
 
-## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Microsoft Copilot | Bing Chat](https://copilot.microsoft.com)** para criar a letra;
 - IA Generativa **[iLoveSong](https://ilovesong.ai/)** para sintetização de voz e melodia;
 
 ## 🧐 Processo de Criação
-Como esse é o README.md mais romântico já existente na face da terra, posso contar que em setembro de 2024 estou completando 2 anos de casamento e isso me inspirou a usar a I.A. para criar uma música sobre a minha história de amor com meu esposo.
-
+Me inspirei no horário de dormir da minha filha e pensei em pedir para a IA criar uma letra e música para uma canção de ninar, ficou uma gracinha.
 ## 🚀 Resultados
 
 ### Letra gerada pelo Copilot
 
-> [verse]
-We met when we were just six years old,
-In a playground where stories unfold.
-Hand in hand, we laughed and played,
-Innocent hearts, where memories stayed.
->
-> [chorus]
-Love is a journey, a beautiful song,
-It takes you back to where you belong.
-Through all the years, through right and wrong,
-Love brings you back to where you belong.
->
->[verse]
-Years went by, we grew apart,
-But you always stayed in my heart.
-Fate brought us back, like a sweet refrain,
-Two hearts in love, together again.
->
->[chorus]
-Love is a journey, a beautiful song,
-It takes you back to where you belong.
-Through all the years, through right and wrong,
-Love brings you back to where you belong.
->
->[bridge]
-Now we’re standing here, hand in hand,
-In this moment, we understand.
-Love is timeless, love is strong,
-It always brings you back to where you belong.
->
->[chorus]
-Love is a journey, a beautiful song,
-It takes you back to where you belong.
-Through all the years, through right and wrong,
-Love brings you back to where you belong.
->
->[outro]
-So here’s to us, to love so true,
-From childhood dreams to “I do.”
-In each other’s arms, we found our song,
-Love brought us back to where we belong.
+Lyrics
+Sonho de Estrelas
 
-Para ouvir a música, você pode acessar **[Back to Where We Belong](https://ilovesong.ai/musics/1648868)**, hospedada no site da própria iLoveSong.
+No céu brilham estrelas, A noite vem nos abraçar, Feche os olhos, meu anjinho, É hora de descansar.
 
-## 💭 Reflexão 
+A lua canta baixinho, Uma canção só pra você, Sonhe com campos floridos, E um mundo a se conhecer.
 
-> Mais do que máquinas precisamos de humanidade.
->Mais do que inteligência precisamos de afeição e doçura.
->Sem essas virtudes a vida será de violência e tudo estará perdido.
->
->— Charles Chaplin
+(Refrão) Durma bem, meu amor, Deixe os sonhos te levar, Amanhã será um novo dia, Cheio de luz e de brincar.
+
+As nuvens são travesseiros, O vento sussurra paz, No seu sono, meu querido, Tudo é belo e eficaz.
+
+(Refrão) Durma bem, meu amor, Deixe os sonhos te levar, Amanhã será um novo dia, Cheio de luz e de brincar.
+
+Para ouvir a música, você pode acessar **[https://ilovesong.ai/share/?id=4073394&uid=63af8519-9cb3-4829-802a-687f9b359e10)**, dentro no site da própria iLoveSong.
+
+## 💭 Reflexão (Opcional)
+
+As IAs Generativas podem trabalhar a nosso favor nos mais diversos setores da vida, mesmo no profissional e também me ajudar na maternidade como rede de apoio, por que não? 
